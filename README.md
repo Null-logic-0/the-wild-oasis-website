@@ -21,3 +21,4 @@ The Wild Oasis is a hotel management platform built with Next.js, Tailwind CSS, 
 ![Screenshot 2025-03-08 at 13 25 49](https://github.com/user-attachments/assets/3bf11959-8ff8-46fc-9400-219710d90cf8)
 ![Screenshot 2025-03-08 at 13 27 31](https://github.com/user-attachments/assets/6ae59d4b-82c0-4198-94ee-c2c86fbd5e39)
 ![Screenshot 2025-03-08 at 13 28 23](https://github.com/user-attachments/assets/6b274c90-be3d-4018-8290-2e353a9df581)
+*
